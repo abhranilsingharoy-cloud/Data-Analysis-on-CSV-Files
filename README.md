@@ -31,7 +31,8 @@ Ensure sales data.csv and sales_analysis. py are in the same folder.
 
 2. Run the script using Python:
 
-   ```bash python sales_analysis.py
+   ```bash
+    python sales_analysis.py
 
 3. Check the folder for the new
     sales_charts.png file.
