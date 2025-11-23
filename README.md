@@ -31,7 +31,7 @@ Ensure sales data.csv and sales_analysis. py are in the same folder.
 
 2. Run the script using Python:
 
-bash
+   ```bash
 
 python sales_analysis.py
 
