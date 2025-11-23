@@ -1,0 +1,16 @@
+Date,Product,Region,Quantity,UnitPrice
+2023-01-01,Laptop,North,5,1200.00
+2023-01-02,Mouse,South,12,25.50
+2023-01-03,Keyboard,East,8,45.00
+2023-01-04,Monitor,West,3,250.00
+2023-01-05,Headphones,North,15,60.00
+2023-01-06,Laptop,South,2,1200.00
+2023-01-07,Mouse,East,20,25.50
+2023-01-08,Keyboard,West,5,45.00
+2023-01-09,Monitor,North,4,250.00
+2023-01-10,Headphones,South,10,60.00
+2023-01-11,Laptop,East,1,1200.00
+2023-01-12,Mouse,West,8,25.50
+2023-01-13,Keyboard,North,6,45.00
+2023-01-14,Monitor,South,2,250.00
+2023-01-15,Headphones,East,12,60.00
