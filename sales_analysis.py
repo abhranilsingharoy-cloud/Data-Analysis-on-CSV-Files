@@ -67,7 +67,7 @@ def main():
     plt.savefig(output_filename)
     print(f"\nCharts saved to '{output_filename}'")
     
-    plt.show()
+    # plt.show()
 
 if __name__ == "__main__":
     main()
